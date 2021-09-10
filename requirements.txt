@@ -14,3 +14,4 @@ watchgod==0.7
 websockets==9.1
 
 SQLAlchemy~=1.4.23
+passlib~=1.7.4
